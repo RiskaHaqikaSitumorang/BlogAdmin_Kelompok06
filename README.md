@@ -150,8 +150,6 @@ breezy-blog-nexus/       # Frontend (React)
 
 ![Article List Screenshot](screenshots/article-list.png)
 
-> 🖼 Letakkan gambar di folder `screenshots/` dan sesuaikan path-nya di atas.
-
 ---
 
 ## 👥 Kontributor
